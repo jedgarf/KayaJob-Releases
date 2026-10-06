@@ -2,6 +2,15 @@
 
 **Kaya mo 'yan.** The free all-in-one app for Filipino job seekers: track applications, prepare HR requirements, practice interviews with AI, know your real take-home pay, and get home safe with KayaNav.
 
+## What's inside
+
+- **Job tracker** with interview and follow-up reminders
+- **Requirements vault** for SSS, PhilHealth, Pag-IBIG, TIN, NBI and more
+- **AI interview coach** with scores, tips and a stronger answer
+- **Salary calculator** with SSS, PhilHealth, Pag-IBIG and tax, plus offer comparison
+- **KayaNav** to plan the trip home with the last-trip warning
+- **Scam checker** and **resume builder** with PDF export
+
 ## Download
 
 Get the latest APK from **[Releases](https://github.com/jedgarf/KayaJob-Releases/releases/latest)**.
