@@ -7,9 +7,10 @@
 - **Job tracker** with interview and follow-up reminders
 - **Requirements vault** for SSS, PhilHealth, Pag-IBIG, TIN, NBI and more
 - **AI interview coach** with scores, tips and a stronger answer
-- **Salary calculator** with SSS, PhilHealth, Pag-IBIG and tax, plus offer comparison
-- **KayaNav** to plan the trip home with the last-trip warning
-- **Scam checker** and **resume builder** with PDF export
+- **Salary calculator** with SSS, PhilHealth, Pag-IBIG and tax, in pesos or 20+ currencies (monthly, daily or hourly)
+- **Compare offers** side by side: take-home after fares and rent, 13th month, bonuses, leaves, benefits and your asking salary
+- **KayaNav** to plan the trip home with the last-trip warning, from any of your saved homes (owned or rented)
+- **Scam checker** with job link and company checks, and a **resume builder** with PDF export
 
 ## Download
 
