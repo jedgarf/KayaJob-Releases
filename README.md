@@ -11,6 +11,9 @@
 - **Compare offers** side by side: take-home after fares and rent, 13th month, bonuses, leaves, benefits and your asking salary
 - **KayaNav** to plan the trip home with the last-trip warning, from any of your saved homes (owned or rented)
 - **Scam checker** with job link and company checks, and a **resume builder** with PDF export
+- **Works offline**: add and edit jobs, requirements and your resume with no signal; everything syncs when you're back online
+- **Push reminders** for interviews and follow-ups on every phone you're signed in on, and a heads-up when payroll rates change
+- **Updates in the app**: new versions download and install right inside KayaJob, with what's new
 
 ## Download
 
@@ -25,7 +28,7 @@ Get the latest APK from **[Releases](https://github.com/jedgarf/KayaJob-Releases
 3. If Play Protect warns you, tap **More details** → **Install anyway**. It shows this for apps installed outside the Play Store.
 4. Tap **Install**, then open KayaJob and create your free account. You need internet to sign in and sync your data.
 
-**Updating?** Install the new APK over the old one. Your data is saved to your account, so nothing is lost.
+**Updating?** From 1.4.0, KayaJob offers new versions right inside the app (Settings → Updates). On 1.3.0 or older, install the new APK over the old one once. Your data is saved to your account, so nothing is lost.
 
 ## Delete your account
 
