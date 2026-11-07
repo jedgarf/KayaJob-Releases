@@ -15,6 +15,8 @@
 - **Push reminders** for interviews, follow-ups and expiring documents on every phone you're signed in on, a Monday summary of your week, and a heads-up when payroll rates change
 - **Export your data** as PDF or CSV to your own Google Drive, files or email
 - **Updates in the app**: new versions download and install right inside KayaJob, with what's new
+- **English or Tagalog**: switch the whole app to Tagalog in Settings → Language (also on the web). The AI coach's questions and feedback stay in English, because that is what you will practice for
+- **Speak your answers** to the AI coach: your words appear live inside the app, no pop-up screens
 - **Share to KayaJob**: share a job post from Facebook, JobStreet or your browser and the app fills in the details
 - **Next step** on the home screen, **Undo** for deleted or moved jobs, and app shortcuts (hold the KayaJob icon)
 
