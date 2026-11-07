@@ -6,15 +6,17 @@
 
 - **Job tracker** with Overview, Job post and Details tabs, plus interview and follow-up reminders
 - **Requirements vault** for SSS, PhilHealth, Pag-IBIG, TIN, NBI and more, with reminders before clearances and licenses expire
-- **AI interview coach** with scores, tips and a stronger answer
+- **AI interview coach** for the exact job you applied to: speak or type your answers, get a score, a STAR checklist, a follow-up question and a stronger answer
 - **Salary calculator** with SSS, PhilHealth, Pag-IBIG and tax, in pesos or 20+ currencies (monthly, daily or hourly), with the date its rates were last updated and an option to deduct them from foreign pay too
 - **Compare offers** side by side: take-home after fares and rent, 13th month, bonuses, leaves, benefits and your asking salary
-- **KayaNav** to plan the trip home with the last-trip warning, from any of your saved homes (owned or rented), even with no signal
+- **KayaNav** to plan the trip home with route choices (a recommended pick, the fastest and the cheapest) and the last-trip warning, from any of your saved homes (owned or rented), even with no signal
 - **Scam checker** with job link and company checks, and a **resume builder** with PDF export
 - **Works offline**: add and edit jobs, requirements and your resume with no signal; everything syncs when you're back online
 - **Push reminders** for interviews, follow-ups and expiring documents on every phone you're signed in on, a Monday summary of your week, and a heads-up when payroll rates change
 - **Export your data** as PDF or CSV to your own Google Drive, files or email
 - **Updates in the app**: new versions download and install right inside KayaJob, with what's new
+- **Share to KayaJob**: share a job post from Facebook, JobStreet or your browser and the app fills in the details
+- **Next step** on the home screen, **Undo** for deleted or moved jobs, and app shortcuts (hold the KayaJob icon)
 
 ## Download
 
